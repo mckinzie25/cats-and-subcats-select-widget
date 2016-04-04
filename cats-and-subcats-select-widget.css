@@ -1,0 +1,22 @@
+/**
+ * @file
+ * CSS classes for the Cats and Subcats Select plugin widget.
+ *
+ */
+
+/**
+ * The cats-and-subcats-select-widget-cat-select class has no style definition
+ * here, but the class is applied to the category select box within the code,
+ * so it can be styled by the user if they like.
+ */
+div.cats-and-subcats-select-widget-cat-select {
+
+}
+
+div.cats-and-subcats-select-widget-subcat-select {
+  margin-top: 15px;
+}
+
+p.cats-and-subcats-select-widget-nosubcats {
+  margin-top: 15px;
+}
